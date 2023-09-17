@@ -1,0 +1,19 @@
+#Main{
+    /* background-color: brown; */
+    background-image: url("/Images/karthik-sreenivas-rsx-joaKYrk-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    height: 500px;
+    width: 500px;
+    margin-left:10em ;
+}
+
+.list{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: cyan;
+    margin-left: 5em;
+}
